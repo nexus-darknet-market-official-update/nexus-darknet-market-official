@@ -47,4 +47,6 @@ With darknet markets regularly facing shutdowns or scams, finding a **trusted of
 
 *Disclaimer: This article is for informational purposes only. Accessing or engaging in activities on darknet markets may be illegal in your jurisdiction. Proceed at your own risk.*
 
-Update:  14.09.2025 Fixed broken link, now reachable
+
+
+Update:  09/18/2025 Link is now clickable
